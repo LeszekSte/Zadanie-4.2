@@ -6,7 +6,7 @@ public class Device {
     private String code;
     private String producer;
     private String type;
-    double price;
+    private double price;
 
     public String getCode() {
         return code;
